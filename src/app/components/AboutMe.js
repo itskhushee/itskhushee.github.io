@@ -27,7 +27,7 @@ const AboutMe = () => {
                     {/* Description */}
                     <div className="flex-1">
                         <p className="text-lg leading-relaxed">
-                            I’m <strong>Khushee Vakil</strong>, currently pursuing my M.S. in Computer Science at Northeastern University (expected May 2026). With a solid foundation in data structures, algorithms, and web development, I’ve built full-stack applications using React, Next.js, Django —and I am continuously exploring cloud and AI technologies to solve real-world problems.
+                        I&apos;m <strong>Khushee Vakil</strong>, currently pursuing my M.S. in Computer Science at Northeastern University (expected May 2026). With a solid foundation in data structures, algorithms, and web development, I&apos;ve built full-stack applications using React, Next.js, Django —and I am continuously exploring cloud and AI technologies to solve real-world problems.
                         </p>
                     </div>
 

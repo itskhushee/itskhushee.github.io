@@ -40,7 +40,7 @@ const HeroSection = () => {
             {/* Hero content */}
             <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
                 <h1 className="text-6xl md:text-7xl font-extrabold text-white">
-                    Hi, I'm Khushee Vakil.
+                    Hi, I&apos;m Khushee Vakil.
                 </h1>
                 <p className={`mt-4 text-xl md:text-4xl text-white transition-opacity duration-1000 delay-500 ${isVisible ? "opacity-100" : "opacity-0"
                     }`}>

@@ -47,7 +47,7 @@ const ContactMe = () => {
       <div className="container mx-auto px-4">
         <h2 className="text-5xl font-bold text-center mb-6">Contact Me</h2>
         <p className="text-lg text-center mb-8">
-          I'd love to hear from you! Feel free to reach out for
+        I&apos;d love to hear from you! Feel free to reach out for
           collaborations, questions, or just a friendly chat.
         </p>
 
