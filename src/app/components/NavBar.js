@@ -28,6 +28,7 @@ export default function Navbar() {
       `}
     >
       <div className="container mx-auto px-4 flex justify-end items-center h-12 space-x-8">
+        <Link href="#home" className="text-white hover:text-gray-300">Home</Link>
         <Link href="#about"  className="text-white hover:text-gray-300">About</Link>
         <Link href="#projects" className="text-white hover:text-gray-300">Projects</Link>
         <Link href="#contact" className="text-white hover:text-gray-300">Contact</Link>
