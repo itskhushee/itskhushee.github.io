@@ -3,12 +3,16 @@ import AboutMe from "./components/AboutMe";
 import Navbar from "./components/NavBar";
 import MyProjects from "./components/MyProjects";
 import ContactMe from "./components/ContactMe";
+import Experience from "./components/Experience";
 export default function Home() {
   return (
     <main>
       <Navbar />
       <section id="about">
         <AboutMe />
+      </section>
+      <section id="experience">
+        <Experience />
       </section>
       <section id="projects">
         <MyProjects />

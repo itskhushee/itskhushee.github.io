@@ -35,7 +35,7 @@ const MyProjects = () => {
   return (
     <section
       id="projects"
-      className="bg-gradient-to-b from-slate-800 to-slate-900"
+      className="bg-gradient-to-b from-slate-700 to-slate-800"
     >
       <div className="container mx-auto px-4 py-20">
         <h2 className="text-white text-5xl font-bold text-center mb-6">

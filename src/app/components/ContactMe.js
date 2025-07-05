@@ -42,7 +42,7 @@ const ContactMe = () => {
   return (
     <section
       id="contact"
-      className="bg-gradient-to-b from-slate-900 to-black text-white py-16"
+      className="bg-gradient-to-b from-slate-800 to-slate-900 text-white py-16"
     >
       <div className="container mx-auto px-4">
         <h2 className="text-5xl font-bold text-center mb-6">Contact Me</h2>
